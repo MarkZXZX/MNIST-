@@ -1,1 +1,1 @@
-http://www.pjreddie.com/media/files/mnist_test.csv
+http://www.pjreddie.com/media/files/mnist_train.csv
